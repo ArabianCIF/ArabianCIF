@@ -1,0 +1,9 @@
+x = 0
+while x <= 5:
+    x += 1
+    num = input()
+    num = int(num)
+    if not (num == 900):
+        num2 = num ** 2
+        print(num2)
+    else:break
