@@ -1,4 +1,4 @@
-Hello!I'm ArabianCIF.I'm a Japanese high school student of agliculture.I'm curious about AI and want to make AI for agliculture.
+Hello!I'm ArabianCIF.I'm a Japanese high school student of agriculture.I'm curious about AI and want to make AI for agrilculture.
 If you are curious about me,Please talk to me.
 
 <!---
