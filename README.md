@@ -3,7 +3,7 @@ Hello!I'm ArabianCIF.I'm a Japanese high school student of agriculture.I want to
 
 
   
-<img src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif">
+
 
 <!---
 ArabianCIF/ArabianCIF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
