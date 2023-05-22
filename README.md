@@ -1,5 +1,4 @@
-Hello!I'm ArabianCIF.I'm a Japanese high school student of agriculture.I want to develop softwate related to agriculture in the future.If you are curious about agriculture or programming,please talk with me!
-#I use python,dart and Java Script.
+I'm a Japanese high school student of agriculture, and I want to develop softwate related to agriculture in the future. Also I use python,dart and Java Script.
   
 
 
